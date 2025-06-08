@@ -1,3 +1,10 @@
+Quiz react sobre front end
+
+![Captura de tela de 2025-06-07 21-39-06](https://github.com/user-attachments/assets/0d7586e6-7393-47a0-8ab9-f9e9f050faab)
+
+![Captura de tela de 2025-06-07 21-40-05](https://github.com/user-attachments/assets/94d0569e-fbae-4210-8a08-840d2ae73a1e)
+![Captura de tela de 2025-06-07 21-39-47](https://github.com/user-attachments/assets/73aac358-313b-45a8-a310-c3bf861f6d0b)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
