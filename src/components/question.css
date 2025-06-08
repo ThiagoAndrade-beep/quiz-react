@@ -1,0 +1,64 @@
+.inputs-control {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+
+.inputs {
+    background-color: #fff;
+    padding: 1.5rem;
+    width: 50%;
+    height: 50%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    align-items: center;
+    border-radius: 8px;
+}
+
+
+.title {
+    align-self: flex-start;
+}
+
+.option-container {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 1rem;
+    font-size: 16px;
+    font-weight: bold;
+    align-self: flex-start;
+    width: 100%;
+    cursor: pointer;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.option-container:hover {
+    border-color: #333;
+    background-color: #f9f9f9;
+}
+
+label {
+    display: flex;
+    gap: .6rem;
+}
+
+.quiz-actions {
+    display: flex;
+    align-self: flex-end;
+}
+
+.quiz-actions button {
+    font-weight: bold;
+    background-color: #1E90FF;
+    color: white;
+    padding: 0.6rem 1.5rem;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-right: 2rem;
+}
